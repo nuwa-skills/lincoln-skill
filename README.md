@@ -4,10 +4,9 @@
 
 > "Nearly all men can stand adversity, but if you want to test a man's character, give him power." —— 亚伯拉罕·林肯
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue.svg)](https://github.com/Panmax/lincoln-skill)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Panmax/lincoln-skill/pulls)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将林肯的领导智慧、道德勇气与统一哲学蒸馏为 Claude Code 可调用的思维技能。**
 
 </div>
@@ -99,12 +98,12 @@ lincoln-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-本项目基于 [MIT 许可证](LICENSE) 开源。
-
 ---
 
 <div align="center">
-<sub>Built with care by <a href="https://github.com/Panmax">Panmax</a> · Powered by Claude Code Skills</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
